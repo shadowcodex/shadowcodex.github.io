@@ -43,6 +43,27 @@
       	font-size: 16px;
       }
     </style>
+    
+  </head>
+  <body>
+    <div id="clockdiv">
+      <div>
+        <span class="days"></span>
+        <div class="smalltext">Days</div>
+      </div>
+      <div>
+        <span class="hours"></span>
+        <div class="smalltext">Hours</div>
+      </div>
+      <div>
+        <span class="minutes"></span>
+        <div class="smalltext">Minutes</div>
+      </div>
+      <div>
+        <span class="seconds"></span>
+        <div class="smalltext">Seconds</div>
+      </div>
+    </div>
     <script>
       function getTimeRemaining(endtime) {
         var t = Date.parse(endtime) - Date.parse(new Date());
@@ -86,25 +107,5 @@
       var deadline = new Date('September 5 2016 21:00:00 GMT-0600');
       initializeClock('clockdiv', deadline);
     </script>
-  </head>
-  <body>
-    <div id="clockdiv">
-      <div>
-        <span class="days"></span>
-        <div class="smalltext">Days</div>
-      </div>
-      <div>
-        <span class="hours"></span>
-        <div class="smalltext">Hours</div>
-      </div>
-      <div>
-        <span class="minutes"></span>
-        <div class="smalltext">Minutes</div>
-      </div>
-      <div>
-        <span class="seconds"></span>
-        <div class="smalltext">Seconds</div>
-      </div>
-    </div>
   </body>
 </html>
