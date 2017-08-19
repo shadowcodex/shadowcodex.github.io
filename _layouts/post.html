@@ -1,0 +1,69 @@
+---
+layout: default
+---
+<style>
+    .share-page {
+        text-align: center;
+        background: #16a085;
+        color: #efefef;
+        padding: 8px 15px;
+        border-radius: 5px;
+        margin: 1.5;
+    }
+    .share-page a{
+        font-weight: 700;
+        color: #fff;
+        margin-left: 10px;        
+    }
+    .share-page a:hover{
+        border-bottom: 1px dashed #fff;
+    }
+</style>
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+      <br>  
+      <a class="btn btn-primary btn-lg" href="/">Go Home <span class="glyphicon glyphicon-chevron-right"></span></a>                
+      &nbsp;&nbsp;&nbsp;<a class="btn btn-info btn-lg" href="/blog/">Go To Blog <span class="glyphicon glyphicon-chevron-right"></span></a>                
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+      <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+        
+          <header class="post-header">
+            <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+            <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+          </header>
+        
+          <div class="post-content" itemprop="articleBody">
+            {{ content }}
+          </div>
+        
+        </article>     
+
+        <div class="well well-sm">
+          <table>
+            <tr>
+              <td>
+                <img style="max-height:100px;" class="img-responsive" src="https://pbs.twimg.com/profile_images/672481536826937344/GeAx6xl4_200x200.jpg" alt="">
+              </td>
+              <td style="padding:10px;">
+                  <h4>Shannon Duncan</h4>
+                  <p>Shannon Duncan is a Full Stack web developer, a father of two, a Christian, and last but not least an avid board game geek.</p>
+              </td>
+            </tr>
+          </table>
+        </div>
+        
+        
+        
+        <div class="share-page">
+            Share this on &rarr; 
+            <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a>
+            <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a>
+            <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+">Google+</a>
+            <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}&summary={{ page.description }}&source={{ site.url }}" rel="nofollow" target="_blank" title="Share on LinkedIn">LinkedIn</a>
+        </div>
+  </div>
+</div>
+

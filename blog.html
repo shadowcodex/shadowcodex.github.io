@@ -1,0 +1,65 @@
+---
+layout: default
+permalink: /blog/
+---
+<style>
+    .blog-link {
+        text-decoration:none;
+        font-size:18px;
+        color:#999;
+    }
+    .blog-link:hover {
+        text-decoration:none;
+    }
+    .blog-date {
+        color:#d9534f;
+        font-style:italic;
+        font-weight:bold;
+        font-size:16px;
+    }
+    .blog-title {
+        color:#fff;
+        font-weight:lighter;
+    }
+    .blog-item{
+        margin-bottom:5px;
+    }
+    .blog-item:hover {
+        background-color:#333;
+    }
+</style>
+<br>
+<div class="row">
+    <div class="col-md-12">
+        <div class="jumbotron">
+            <h1>Blog</h1>
+            <p>I guess this is where we post things?</p>
+            <p>
+                <a class="btn btn-primary btn-lg" href="/">Go Home <span class="glyphicon glyphicon-chevron-right"></span></a>                
+            </p>
+        </div>
+    </div>    
+</div>
+<div class="row">
+    <div class="col-md-12">
+        {% for post in site.posts %}
+            <a class="blog-link" href="{{ post.url }}">
+                <div class="row blog-item">
+                    <div class="col-md-12">
+                        <div class="row">
+                            <div class="col-md-2">
+                                <span class="blog-date">[ {{ post.date | date_to_long_string}} ]</span>
+                            </div>
+                            <div class="col-md-10">
+                                <span class="blog-title">{{ post.title }}</span>
+                                <!-- <a href="{{ post.url }}#disqus_thread" style="color:#f1f1f1;text-decoration: underline;"><small>Comments</small></a> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        {% endfor %}
+    </div>
+</div>
+
+    
