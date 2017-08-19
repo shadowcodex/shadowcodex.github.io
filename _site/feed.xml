@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shannon Duncan - Software Developer</title>
+    <description>A full stack software developer, a father, and a gamer. Not much else here...
+</description>
+    <link>https://shadowcodex.github.io/</link>
+    <atom:link href="https://shadowcodex.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 18 Aug 2017 22:30:31 -0500</pubDate>
+    <lastBuildDate>Fri, 18 Aug 2017 22:30:31 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Welcome to new beginnings!</title>
+        <description>&lt;p&gt;You may have or may not have noticed that you got redirected to this site from unrestrictedcoding.com. I feel as though UC became a dead project and wasn’t getting the respect it diserved. So I have created this new site to start fresh.&lt;/p&gt;
+
+&lt;p&gt;The home page is a simple listing of projects, and I’ll have a blog here on the &lt;code class=&quot;highlighter-rouge&quot;&gt;/blog/&lt;/code&gt; page. That’s about it. Other projects I create will be linked from here as it grows.&lt;/p&gt;
+
+&lt;p&gt;One of the first projects I am working on is a complete rewrite of an editor I created a few years ago. This time I’ll be doing it right using Angular 4 and the newest products of Firebase.&lt;/p&gt;
+
+&lt;p&gt;Keep an eye open for new blog posts!&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 18 Aug 2017 21:44:33 -0500</pubDate>
+        <link>https://shadowcodex.github.io/2017/08/18/welcome-to-new-beginnings.html</link>
+        <guid isPermaLink="true">https://shadowcodex.github.io/2017/08/18/welcome-to-new-beginnings.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>CodeFights. A way to keep sharp.</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/imgs/blogmedia/codefights.png&quot; class=&quot;img-responsive&quot; style=&quot;height:300px;margin:auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When you have had some time since your schooling, you tend to start losing an 
+edge on the things that were taught. Things that we learned in our computer 
+science classes no longer come quickly to our minds. Especially if you get a development 
+job that doesn’t require you to use all of your skills all the time (Which none do).&lt;/p&gt;
+
+&lt;p&gt;That’s when you need to step in and take back your brain. Time to sharpen your edge.&lt;/p&gt;
+
+&lt;h2 id=&quot;challenge-sites&quot;&gt;Challenge Sites&lt;/h2&gt;
+
+&lt;p&gt;There are a lot of different challenge sites out there, however, my favorite is CodeFights.
+Several reasons exist for this, but the biggest reason is their answer submission. I’ll get into that. First… What is a challenge site?&lt;/p&gt;
+
+&lt;p&gt;A challenge site is a community site built to hit on several aspects of computer programming. 
+They tend to have sections and categories based on several things.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Algorithms&lt;/li&gt;
+  &lt;li&gt;Language Syntax&lt;/li&gt;
+  &lt;li&gt;Dev Ops&lt;/li&gt;
+  &lt;li&gt;others…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Algorithms tends to be the largest and most used categories that I have found. Each of these categories
+has separate challenges for you to complete. Some may want you to implement a sorting
+algorithm using your favorite language. Each challenge has a goal, and you are scored on how well
+your code works.&lt;/p&gt;
+
+&lt;p&gt;They tend to use test cases for the scoring. Usually, there are a few sample test cases
+that you can see what is required of you. These include an &lt;code class=&quot;highlighter-rouge&quot;&gt;input&lt;/code&gt; and an &lt;code class=&quot;highlighter-rouge&quot;&gt;expected output&lt;/code&gt;.
+Beyond the sample test cases, you are required to pass a certain number of hidden test cases 
+in order to get the full score. These are unknown inputs, and can really break your algorithm 
+if you don’t have all your ducks in a row.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-codefightshttpscodefightscomsignuptc6zhhbjaeryfytbbmain&quot;&gt;Why &lt;a href=&quot;https://codefights.com/signup/Tc6ZhHbjaerYfyTBB/main&quot;&gt;CodeFights&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;CodeFights is one of many sites out there that provides challenges. However, I tend
+to enjoy CodeFights more than any other one. This has to do with their community,
+the way they present challenges, and the way you output your answer.&lt;/p&gt;
+
+&lt;p&gt;1st and foremost on my list of reasons is output. The biggest thing for me is the way they require you to output 
+your answer. Most challenge sites I have seen use your 
+&lt;a href=&quot;#&quot; data-toggle=&quot;popover&quot; data-trigger=&quot;focus&quot; title=&quot;STDOUT - Standard Output&quot; data-content=&quot;Standard streams are preconnected input and output communication channels  between a computer program and its environment when it begins execution.  The three I/O connections are called standard input (stdin), standard output (stdout)  and standard error (stderr) --Wikipedia&quot; onclick=&quot;return false;&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;STDOUT&lt;/code&gt;&lt;sup&gt;i&lt;/sup&gt;&lt;/a&gt; 
+for getting your output for the question. However, CodeFights uses just a simple return from the 
+function they setup for you. You write your logic inside the function and then 
+send back your output via return. This is awesome because they are able to allow you to write 
+out to STDOUT for debugging purposes. Now, you want to disable this for submitting
+your code because they tend to have hidden test cases with a ton of information. 
+The debug output can slow your program down and cause it to fail tests.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/imgs/blogmedia/codefight-output.png&quot; class=&quot;img-responsive&quot; style=&quot;height:300px;margin:auto;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Secondly, I love that they want you to write a function. They give you data through
+your function inputs, and you send the answer via a return statement. This means 
+that the code you write for each functions is readily usable in any other project 
+you have.&lt;/p&gt;
+
+&lt;h2 id=&quot;gamification&quot;&gt;Gamification&lt;/h2&gt;
+
+&lt;p&gt;Something that I think CodeFights does really well is 
+&lt;a href=&quot;#&quot; data-toggle=&quot;popover&quot; data-trigger=&quot;focus&quot; title=&quot;Gamification&quot; data-content=&quot;The application of typical elements of game playing (e.g., point scoring,  competition with others, rules of play) to other areas of activity, typically as  an online marketing technique to encourage engagement with a product or service. -- Wikipedia&quot; onclick=&quot;return false;&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;gamification&lt;/code&gt;&lt;sup&gt;i&lt;/sup&gt;&lt;/a&gt;. They have 
+the typical challenges that most sites have, but they have implemented levels and 
+currency. You earn xp (experience) and coins by completing a wide range of tasks. 
+Currently the only thing your coins do is allow you to purchase a t-shirt, but the
+ranks that you gain from xp are pretty cool. You can tell who has been around for 
+a while.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/imgs/blogmedia/codefight-level.png&quot; class=&quot;img-responsive&quot; style=&quot;height:300px;margin:auto;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;They also have several other factors of gamification including badges, an arcade, 
+bots, and their biggest feature - fights. Badges are badges, and you get them for 
+compeleting various achievements. The arcade is awesome. It’s a level progression 
+system for working on different topics. It gives you instant gratification for completing
+tasks. Starting easy and slowly building to more complex challenges.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-thoughts&quot;&gt;Final Thoughts&lt;/h2&gt;
+
+&lt;p&gt;There are a ton of features for CodeFights but better yet, you should head on over 
+there and try them out. Keep learning, and keep building your skill set. CodeFights
+is just one way to do that.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://codefights.com/signup/Tc6ZhHbjaerYfyTBB/main&quot; class=&quot;btn btn-lg btn-primary&quot;&gt;Join CodeFights&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;item&lt;/em&gt;&lt;sup style=&quot;color:blue;&quot;&gt;i&lt;/sup&gt; - Means more information is available as you click on the item.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Dec 2016 02:00:00 -0600</pubDate>
+        <link>https://shadowcodex.github.io/2016/12/07/codefights.html</link>
+        <guid isPermaLink="true">https://shadowcodex.github.io/2016/12/07/codefights.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>[Pluralsight] Github Guide for Beginners.</title>
+        <description>&lt;p&gt;This is a post I did over at Pluralsight about Github and how to navigate and use it. It is aimed at the very new beginners, and may be a little too bland for seasoned veterns.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.pluralsight.com/github-tutorial&quot;&gt;View the Full Github Article Here…&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Jan 2016 13:30:00 -0600</pubDate>
+        <link>https://shadowcodex.github.io/2016/01/12/github-beginners-guide.html</link>
+        <guid isPermaLink="true">https://shadowcodex.github.io/2016/01/12/github-beginners-guide.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
