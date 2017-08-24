@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "CodeFights. A way to keep sharp."
+description: "A challenge site is a community site built to hit on several aspects of computer programming."
 date:   2016-12-07 08:00:00
+ogimg: "https://shadowcodex.github.io/imgs/blogmedia/codefights.png"
 ---
 <img src="/imgs/blogmedia/codefights.png" class="img-responsive" style="height:300px;margin:auto;">
 

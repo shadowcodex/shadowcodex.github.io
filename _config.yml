@@ -8,12 +8,13 @@
 # Site settings
 title: Shannon Duncan - Software Developer
 email: jsduncan98@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  A full stack software developer, a father, and a gamer. Not much else here...
+description: "A full stack software developer, a father, and a gamer. Not much else here..."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shadowcodex.github.io" # the base hostname & protocol for your site
 twitter_username: iamMrDuncan
 github_username:  shadowcodex
+seokeyworddefault: "full stack developer"
+ogimg: "https://shadowcodex.github.io/imgs/ogimg.jpg"
 
 # Build settings
 markdown: kramdown
