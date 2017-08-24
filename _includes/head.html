@@ -12,7 +12,7 @@
   <!-- Social Media Objects -->
   <!-- Facebook Default Override -->
   <meta property="og:url"                content="{% if page.ogurl %}{{ page.ogurl }}{% else %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
-  <meta property="og:type"               content="{% if page.layout == 'post' %}post{% else %}website{% endif %}" />
+  <meta property="og:type"               content="website" />
   <meta property="og:title"              content="{% if page.ogtitle %}{{ page.ogtitle }} | {{ site.title}}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:description"        content="{% if page.ogdescription %}{{ page.ogdescription | truncate: 160 }}{% elsif page.description %}{{ page.description | truncate: 160 }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}" />
   {% if page.ogimg %}<meta property="og:image"              content="{{page.ogimg}}" />{% elsif site.ogimg %}<meta property="og:image"              content="{{site.ogimg}}" />{% endif %}
