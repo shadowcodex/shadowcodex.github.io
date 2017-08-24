@@ -3,11 +3,71 @@
   <channel>
     <title>Shannon Duncan - Software Developer</title>
     <description>A full stack software developer, a father, and a gamer. Not much else here...</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Aug 2017 13:39:08 -0500</pubDate>
-    <lastBuildDate>Thu, 24 Aug 2017 13:39:08 -0500</lastBuildDate>
+    <link>https://shadowcodex.github.io/</link>
+    <atom:link href="https://shadowcodex.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 24 Aug 2017 16:06:28 -0500</pubDate>
+    <lastBuildDate>Thu, 24 Aug 2017 16:06:28 -0500</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>[Opinion] Do not just immitate, but instead understand!</title>
+        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/imgs/blogmedia/object.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;so-you-are-doing-some-form-of-training&quot;&gt;So you are doing some form of training?&lt;/h2&gt;
+
+&lt;p&gt;Whether you are watching a coding course online or sitting in a lecture, 
+you need to understand what is going on.&lt;/p&gt;
+
+&lt;h2 id=&quot;copying-vs-understanding&quot;&gt;Copying VS Understanding&lt;/h2&gt;
+
+&lt;p&gt;A lot of people just look at examples and copy them. However this can get you 
+stuck a lot of times, and can end up backfiring for you. What happens when you
+hit an issue that you haven’t ever copied before? Instead of just taking whatever
+the training course gives you at face value, dig deeper!&lt;/p&gt;
+
+&lt;p&gt;You will learn more and be better at what you are training for if you do. If you are
+wondering how you can go deeper here are a few suggestions.&lt;/p&gt;
+
+&lt;h3 id=&quot;one&quot;&gt;One.&lt;/h3&gt;
+
+&lt;p&gt;Instead of just copy and pasting an example type it out. Line by line. As you do so
+try and understand why they did what they did. This not only gives you insight into
+actually writing the code but might result in miss types. You’ll get bugs and have
+to figure out why it isn’t working. Problem solving and troubleshooting a program can
+often times teach you so much more about what you are writing that just reading or
+copy pasting.&lt;/p&gt;
+
+&lt;h3 id=&quot;two&quot;&gt;Two.&lt;/h3&gt;
+
+&lt;p&gt;When you read through some code, try to close the book and type out the parts from
+memory. This not only helps you learn the code blocks but you’ll also be able to create
+you own coding style as you aren’t verbatim copying code.&lt;/p&gt;
+
+&lt;h3 id=&quot;three&quot;&gt;Three.&lt;/h3&gt;
+
+&lt;p&gt;Try it another way. Just what it says, you look at a block of code to copy and figure
+out what it is doing. Then you try to come up with a different algorithm or method of
+getting the same answer. You may not have the most effecient result from it, but it 
+will help you learn the concepts of why they did it the way they did.&lt;/p&gt;
+
+&lt;h3 id=&quot;four&quot;&gt;Four.&lt;/h3&gt;
+
+&lt;p&gt;Ask Questions. If you have a community forum or are live or in person with the speaker
+then ask questions. Ask them why they did things certain ways, and if there are other
+better ways to do them. Ask for deeper clarification on terms and usage.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I can only rehash it so many times, but please for the sake of your learning and the 
+future of software development… Please take time to actually learn what you are seeing.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 24 Aug 2017 02:30:00 -0500</pubDate>
+        <link>https://shadowcodex.github.io/2017/08/24/do-not-just-immitate-but-understand.html</link>
+        <guid isPermaLink="true">https://shadowcodex.github.io/2017/08/24/do-not-just-immitate-but-understand.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>[Review] My New Favorite Editor. Vistual Studio Code.</title>
@@ -91,8 +151,8 @@ and go check it out!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://code.visualstudio.com/&quot; class=&quot;btn btn-lg btn-success&quot;&gt; Download VSCode    &lt;span class=&quot;glyphicon glyphicon-save&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Aug 2017 02:30:00 -0500</pubDate>
-        <link>http://localhost:4000/2017/08/21/visual-studio-code.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/08/21/visual-studio-code.html</guid>
+        <link>https://shadowcodex.github.io/2017/08/21/visual-studio-code.html</link>
+        <guid isPermaLink="true">https://shadowcodex.github.io/2017/08/21/visual-studio-code.html</guid>
         
         
       </item>
@@ -109,8 +169,8 @@ and go check it out!&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 18 Aug 2017 21:44:33 -0500</pubDate>
-        <link>http://localhost:4000/2017/08/18/welcome-to-new-beginnings.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/08/18/welcome-to-new-beginnings.html</guid>
+        <link>https://shadowcodex.github.io/2017/08/18/welcome-to-new-beginnings.html</link>
+        <guid isPermaLink="true">https://shadowcodex.github.io/2017/08/18/welcome-to-new-beginnings.html</guid>
         
         
       </item>
@@ -209,8 +269,8 @@ is just one way to do that.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;item&lt;/em&gt;&lt;sup style=&quot;color:blue;&quot;&gt;i&lt;/sup&gt; - Means more information is available as you click on the item.&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Dec 2016 02:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2016/12/07/codefights.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/12/07/codefights.html</guid>
+        <link>https://shadowcodex.github.io/2016/12/07/codefights.html</link>
+        <guid isPermaLink="true">https://shadowcodex.github.io/2016/12/07/codefights.html</guid>
         
         
       </item>
@@ -222,8 +282,8 @@ is just one way to do that.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://blog.pluralsight.com/github-tutorial&quot;&gt;View the Full Github Article Here…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jan 2016 13:30:00 -0600</pubDate>
-        <link>http://localhost:4000/2016/01/12/github-beginners-guide.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/01/12/github-beginners-guide.html</guid>
+        <link>https://shadowcodex.github.io/2016/01/12/github-beginners-guide.html</link>
+        <guid isPermaLink="true">https://shadowcodex.github.io/2016/01/12/github-beginners-guide.html</guid>
         
         
       </item>
