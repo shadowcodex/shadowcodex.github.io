@@ -3,7 +3,7 @@ layout: post
 title:  "[Review] My New Favorite Editor. Vistual Studio Code."
 description: "A quick review of the Visual Studio Code Editor, and some extensions that make it amazing!"
 date:   2017-08-21 07:30:00
-ogimg: "https://shadowcodex.github.io/imgs/blogmedia/bscode.png"
+ogimg: "https://shadowcodex.github.io/imgs/blogmedia/vscode.png"
 ---
 <img class="img-responsive" src="/imgs/blogmedia/vscode.png">
 
