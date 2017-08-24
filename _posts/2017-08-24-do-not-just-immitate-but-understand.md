@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Opinion] Do not just immitate, but instead understand!"
+title:  "[Opinion] Do not just imitate, but instead understand!"
 description: "When you do a training course, don't just go through the motions. Go deeper."
 date:   2017-08-24 07:30:00
 ogimg: "https://shadowcodex.github.io/imgs/blogmedia/object.png"
@@ -41,7 +41,7 @@ you own coding style as you aren't verbatim copying code.
 
 Try it another way. Just what it says, you look at a block of code to copy and figure
 out what it is doing. Then you try to come up with a different algorithm or method of
-getting the same answer. You may not have the most effecient result from it, but it 
+getting the same answer. You may not have the most efficient result from it, but it 
 will help you learn the concepts of why they did it the way they did.
 
 ### Four.
