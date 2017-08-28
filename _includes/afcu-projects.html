@@ -1,0 +1,23 @@
+<div class="row">
+        <div class="col-md-12">
+            <h2>AFCU Development</h2>
+            <p>While I cannot show source code for these projects, I can list them, describe them, and point out what technologies were used with them.
+        </div>
+    </div>
+{% assign rows = site.data.afcu-projects.size | divided_by: 4.0 | ceil %}
+{% for i in (1..rows) %}
+    {% assign offset = forloop.index0 | times: 4 %}
+    <div class="row">
+    {% for proj in site.data.afcu-projects limit:4 offset:offset %}
+        <div class="col-md-3">
+            <div class="panel panel-default">
+                <div class="panel-heading">{{proj.title}}</div>
+                <div class="panel-body">
+                    <p>{{proj.description}}</p>
+                    <p>{{proj.tech}}</p>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+{% endfor %}

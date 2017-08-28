@@ -5,12 +5,12 @@
     <description>A full stack software developer, a father, and a gamer. Not much else here...</description>
     <link>https://shadowcodex.github.io/</link>
     <atom:link href="https://shadowcodex.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Aug 2017 16:10:13 -0500</pubDate>
-    <lastBuildDate>Thu, 24 Aug 2017 16:10:13 -0500</lastBuildDate>
-    <generator>Jekyll v3.5.2</generator>
+    <pubDate>Mon, 28 Aug 2017 13:44:07 -0500</pubDate>
+    <lastBuildDate>Mon, 28 Aug 2017 13:44:07 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>[Opinion] Do not just immitate, but instead understand!</title>
+        <title>[Opinion] Do not just imitate, but instead understand!</title>
         <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/imgs/blogmedia/object.png&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;so-you-are-doing-some-form-of-training&quot;&gt;So you are doing some form of training?&lt;/h2&gt;
@@ -47,7 +47,7 @@ you own coding style as you aren’t verbatim copying code.&lt;/p&gt;
 
 &lt;p&gt;Try it another way. Just what it says, you look at a block of code to copy and figure
 out what it is doing. Then you try to come up with a different algorithm or method of
-getting the same answer. You may not have the most effecient result from it, but it 
+getting the same answer. You may not have the most efficient result from it, but it 
 will help you learn the concepts of why they did it the way they did.&lt;/p&gt;
 
 &lt;h3 id=&quot;four&quot;&gt;Four.&lt;/h3&gt;
@@ -212,7 +212,7 @@ Beyond the sample test cases, you are required to pass a certain number of hidde
 in order to get the full score. These are unknown inputs, and can really break your algorithm 
 if you don’t have all your ducks in a row.&lt;/p&gt;
 
-&lt;h2 id=&quot;why-codefights&quot;&gt;Why &lt;a href=&quot;https://codefights.com/signup/Tc6ZhHbjaerYfyTBB/main&quot;&gt;CodeFights&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;why-codefightshttpscodefightscomsignuptc6zhhbjaeryfytbbmain&quot;&gt;Why &lt;a href=&quot;https://codefights.com/signup/Tc6ZhHbjaerYfyTBB/main&quot;&gt;CodeFights&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;CodeFights is one of many sites out there that provides challenges. However, I tend
 to enjoy CodeFights more than any other one. This has to do with their community,
