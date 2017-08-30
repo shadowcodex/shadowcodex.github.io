@@ -1,0 +1,26 @@
+[
+    {
+        "title": "zodern/meteor-up",
+        "link": "https://github.com/zodern/meteor-up",
+        "description": "Production Quality Meteor Deployment to Anywhere",
+        "myInvolvement": "This project I have added a lot of contributions, including the website design."
+    },
+    {
+        "title": "c9/core",
+        "link": "https://github.com/c9/core",
+        "description": "Cloud9 Core - Part of the Cloud9 SDK for Plugin Development",
+        "myInvolvement": "This project I added the ability to pipe data into the editor in real time."
+    },
+    {
+        "title": "pluralsight/guides",
+        "link": "https://github.com/pluralsight/guides",
+        "description": "Article back-end for hack.guides() website",
+        "myInvolvement": "I've written several articles for Pluralsight and merged them into their guide repo."
+    },
+    {
+        "title": "ayojs/ayo",
+        "link": "https://github.com/ayojs/ayo",
+        "description": "An official fork of NodeJS. It's pronounced like 'IO'.",
+        "myInvolvement": "I am working to help update documentation, add new features, and moderate the community."
+    }
+]

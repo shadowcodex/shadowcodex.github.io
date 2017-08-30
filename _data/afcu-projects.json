@@ -1,42 +1,42 @@
 [
     {
-        title: "Board Site",
-        description: "An online meeting place for board agendas, voting, and remote meetings.",
-        tech: "MetoerJS, BlazeJS, MongoDB, PUB/SUB, NodeJS, HTML/CSS"
+        "title": "Board Site",
+        "description": "An online meeting place for board agendas, voting, and remote meetings.",
+        "tech": "MeteorJS, BlazeJS, MongoDB, PUB/SUB, NodeJS, HTML/CSS"
     },
     {
-        title: "Credit Bureau Parser",
-        description: "A C# program that parses the Metro 2 format for reporting to Credit Bureau's. Use was to extract information, fix it, and regenerate the file.",
-        tech: "C#"
+        "title": "Credit Bureau Parser",
+        "description": "A C# program that parses the Metro 2 format for reporting to Credit Bureau's. Use was to extract information, fix it, and regenerate the file.",
+        "tech": "C#"
     },
     {
-        title: "Loan Participations",
-        description: "Built a system to extend Fiserv's XP2 Core Processing System. Added Loan Participation Pools for Autos.",
-        tech: "C#, ASP.NET, SDK/API, SOAP, Microsoft SQL Server, T-SQL, WPF, HTML/CSS/JS"
+        "title": "Loan Participation's",
+        "description": "Built a system to extend Fiserv's XP2 Core Processing System. Added Loan Participation Pools for Autos.",
+        "tech": "C#, ASP.NET, SDK/API, SOAP, Microsoft SQL Server, T-SQL, WPF, HTML/CSS/JS"
     },
     {
-        title: "Supplemental Health Insurance Program",
-        description: "A ASP.NET application that managed the entire health care claim and reimbursement system for AFCU.",
-        tech: "C#, ASP.NET, HTML, JavaScript, CSS, Microsoft SQL Server, T-SQL"
+        "title": "Supplemental Health Insurance Program",
+        "description": "A ASP.NET application that managed the entire health care claim and reimbursement system for AFCU.",
+        "tech": "C#, ASP.NET, HTML, JavaScript, CSS, Microsoft SQL Server, T-SQL"
     },
     {
-        title: "Employee Suggestions",
-        description: "I built a Stack Overflow style employee suggestion portal for AFCU.",
-        tech: "C#, ASP.NET, Microsoft SQL Server, T-SQL, HTML/CSS/JS"
+        "title": "Employee Suggestions",
+        "description": "I built a Stack Overflow style employee suggestion portal for AFCU.",
+        "tech": "C#, ASP.NET, Microsoft SQL Server, T-SQL, HTML/CSS/JS"
     },
     {
-        title: "Sweep Job",
-        description: "This is a C# Batch program that runs every night to sweep 90% of funds into a proceeds account and 10% of funds into a holding account.",
-        tech: "C#"
+        "title": "Sweep Job",
+        "description": "This is a C# Batch program that runs every night to sweep 90% of funds into a proceeds account and 10% of funds into a holding account.",
+        "tech": "C#"
     },
     {
-        title: "Prime Alliance to FICS",
-        description: "Converts an XML file to CSV for import into FICS.",
-        tech: "Python"
+        "title": "Prime Alliance to FICS",
+        "description": "Converts an XML file to CSV for import into FICS.",
+        "tech": "Python"
     },
     {
-        title: "Corp Password Cracker",
-        description: "Checks to see if any encrypted passwords in DB uses low security passwords.",
-        tech: "Python, Rainbow Tables, Sha256, Sha512, MD5"
-    },
+        "title": "Corp Password Cracker",
+        "description": "Checks to see if any encrypted passwords in DB uses low security passwords.",
+        "tech": "Python, Rainbow Tables, Sha256, Sha512, MD5"
+    }
 ]
