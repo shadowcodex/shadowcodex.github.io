@@ -3,11 +3,11 @@
   <channel>
     <title>Shannon Duncan - Software Developer</title>
     <description>A full stack software developer, a father, and a gamer. Not much else here...</description>
-    <link>https://shadowcodex.github.io/</link>
-    <atom:link href="https://shadowcodex.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Aug 2017 13:44:07 -0500</pubDate>
-    <lastBuildDate>Mon, 28 Aug 2017 13:44:07 -0500</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 30 Aug 2017 08:26:17 -0500</pubDate>
+    <lastBuildDate>Wed, 30 Aug 2017 08:26:17 -0500</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
     
       <item>
         <title>[Opinion] Do not just imitate, but instead understand!</title>
@@ -63,8 +63,8 @@ future of software development… Please take time to actually learn what you ar
 
 </description>
         <pubDate>Thu, 24 Aug 2017 02:30:00 -0500</pubDate>
-        <link>https://shadowcodex.github.io/2017/08/24/do-not-just-immitate-but-understand.html</link>
-        <guid isPermaLink="true">https://shadowcodex.github.io/2017/08/24/do-not-just-immitate-but-understand.html</guid>
+        <link>http://localhost:4000/2017/08/24/do-not-just-immitate-but-understand.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/08/24/do-not-just-immitate-but-understand.html</guid>
         
         
       </item>
@@ -151,8 +151,8 @@ and go check it out!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://code.visualstudio.com/&quot; class=&quot;btn btn-lg btn-success&quot;&gt; Download VSCode    &lt;span class=&quot;glyphicon glyphicon-save&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Aug 2017 02:30:00 -0500</pubDate>
-        <link>https://shadowcodex.github.io/2017/08/21/visual-studio-code.html</link>
-        <guid isPermaLink="true">https://shadowcodex.github.io/2017/08/21/visual-studio-code.html</guid>
+        <link>http://localhost:4000/2017/08/21/visual-studio-code.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/08/21/visual-studio-code.html</guid>
         
         
       </item>
@@ -169,8 +169,8 @@ and go check it out!&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 18 Aug 2017 21:44:33 -0500</pubDate>
-        <link>https://shadowcodex.github.io/2017/08/18/welcome-to-new-beginnings.html</link>
-        <guid isPermaLink="true">https://shadowcodex.github.io/2017/08/18/welcome-to-new-beginnings.html</guid>
+        <link>http://localhost:4000/2017/08/18/welcome-to-new-beginnings.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/08/18/welcome-to-new-beginnings.html</guid>
         
         
       </item>
@@ -212,7 +212,7 @@ Beyond the sample test cases, you are required to pass a certain number of hidde
 in order to get the full score. These are unknown inputs, and can really break your algorithm 
 if you don’t have all your ducks in a row.&lt;/p&gt;
 
-&lt;h2 id=&quot;why-codefightshttpscodefightscomsignuptc6zhhbjaeryfytbbmain&quot;&gt;Why &lt;a href=&quot;https://codefights.com/signup/Tc6ZhHbjaerYfyTBB/main&quot;&gt;CodeFights&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;why-codefights&quot;&gt;Why &lt;a href=&quot;https://codefights.com/signup/Tc6ZhHbjaerYfyTBB/main&quot;&gt;CodeFights&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;CodeFights is one of many sites out there that provides challenges. However, I tend
 to enjoy CodeFights more than any other one. This has to do with their community,
@@ -269,8 +269,8 @@ is just one way to do that.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;item&lt;/em&gt;&lt;sup style=&quot;color:blue;&quot;&gt;i&lt;/sup&gt; - Means more information is available as you click on the item.&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Dec 2016 02:00:00 -0600</pubDate>
-        <link>https://shadowcodex.github.io/2016/12/07/codefights.html</link>
-        <guid isPermaLink="true">https://shadowcodex.github.io/2016/12/07/codefights.html</guid>
+        <link>http://localhost:4000/2016/12/07/codefights.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/07/codefights.html</guid>
         
         
       </item>
@@ -282,8 +282,8 @@ is just one way to do that.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://blog.pluralsight.com/github-tutorial&quot;&gt;View the Full Github Article Here…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jan 2016 13:30:00 -0600</pubDate>
-        <link>https://shadowcodex.github.io/2016/01/12/github-beginners-guide.html</link>
-        <guid isPermaLink="true">https://shadowcodex.github.io/2016/01/12/github-beginners-guide.html</guid>
+        <link>http://localhost:4000/2016/01/12/github-beginners-guide.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/01/12/github-beginners-guide.html</guid>
         
         
       </item>
