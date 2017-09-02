@@ -3,11 +3,49 @@
   <channel>
     <title>Shannon Duncan - Software Developer</title>
     <description>A full stack software developer, a father, and a gamer. Not much else here...</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Aug 2017 10:43:40 -0500</pubDate>
-    <lastBuildDate>Wed, 30 Aug 2017 10:43:40 -0500</lastBuildDate>
-    <generator>Jekyll v3.5.2</generator>
+    <link>https://shadowcodex.github.io/</link>
+    <atom:link href="https://shadowcodex.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 02 Sep 2017 10:46:22 -0500</pubDate>
+    <lastBuildDate>Sat, 02 Sep 2017 10:46:22 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>[Meteor] Meteor Up Site is LIVE!!!</title>
+        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/imgs/blogmedia/meteor-up-console.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-meteor-up&quot;&gt;What is Meteor Up?&lt;/h2&gt;
+
+&lt;p&gt;Meteor Up is a production quality application to deploy your Meteor App to anywhere.
+Normally you can only deploy your meteor application to Meteor’s own Galaxy cloud
+servers. However with Meteor Up (MUP) you can deploy it to AWS, Google Cloud, Digital Ocean,
+Azure, or any other place you can run an Ubuntu server.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-easy-is-it&quot;&gt;How easy is it?&lt;/h2&gt;
+
+&lt;p&gt;Really Easy!!! You setup your config file and then just run a few commands.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;mup setup&lt;/code&gt; and then &lt;code class=&quot;highlighter-rouge&quot;&gt;mup deploy&lt;/code&gt; and boom! You’re site is up. Assuming you did your 
+config file right that is.&lt;/p&gt;
+
+&lt;h2 id=&quot;where-can-i-find-out-more-info&quot;&gt;Where can I find out more info?&lt;/h2&gt;
+
+&lt;p&gt;The website of course! You can find it &lt;a href=&quot;http://meteor-up.com&quot;&gt;here - home page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The getting started tutorial can be found &lt;a href=&quot;http://meteor-up.com/getting-started.html&quot;&gt;here - getting started&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And finally the full docs can be found &lt;a href=&quot;http://meteor-up.com/docs.html&quot;&gt;here - documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;i-need-help&quot;&gt;I need help!&lt;/h2&gt;
+
+&lt;p&gt;There are two major places to get help. If it’s a quick quesiton or you just want to chat drop by
+the &lt;a href=&quot;http://meteor-up.com/docs.html&quot;&gt;Gitter Chat&lt;/a&gt;. Otherwise, you should probably file an &lt;a href=&quot;https://github.com/zodern/meteor-up/issues&quot;&gt;issue on Github&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Sep 2017 02:30:00 -0500</pubDate>
+        <link>https://shadowcodex.github.io/2017/09/01/meteor-up-site-live.html</link>
+        <guid isPermaLink="true">https://shadowcodex.github.io/2017/09/01/meteor-up-site-live.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>[Opinion] Do not just imitate, but instead understand!</title>
@@ -63,8 +101,8 @@ future of software development… Please take time to actually learn what you ar
 
 </description>
         <pubDate>Thu, 24 Aug 2017 02:30:00 -0500</pubDate>
-        <link>http://localhost:4000/2017/08/24/do-not-just-immitate-but-understand.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/08/24/do-not-just-immitate-but-understand.html</guid>
+        <link>https://shadowcodex.github.io/2017/08/24/do-not-just-immitate-but-understand.html</link>
+        <guid isPermaLink="true">https://shadowcodex.github.io/2017/08/24/do-not-just-immitate-but-understand.html</guid>
         
         
       </item>
@@ -151,8 +189,8 @@ and go check it out!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://code.visualstudio.com/&quot; class=&quot;btn btn-lg btn-success&quot;&gt; Download VSCode    &lt;span class=&quot;glyphicon glyphicon-save&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Aug 2017 02:30:00 -0500</pubDate>
-        <link>http://localhost:4000/2017/08/21/visual-studio-code.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/08/21/visual-studio-code.html</guid>
+        <link>https://shadowcodex.github.io/2017/08/21/visual-studio-code.html</link>
+        <guid isPermaLink="true">https://shadowcodex.github.io/2017/08/21/visual-studio-code.html</guid>
         
         
       </item>
@@ -169,8 +207,8 @@ and go check it out!&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 18 Aug 2017 21:44:33 -0500</pubDate>
-        <link>http://localhost:4000/2017/08/18/welcome-to-new-beginnings.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/08/18/welcome-to-new-beginnings.html</guid>
+        <link>https://shadowcodex.github.io/2017/08/18/welcome-to-new-beginnings.html</link>
+        <guid isPermaLink="true">https://shadowcodex.github.io/2017/08/18/welcome-to-new-beginnings.html</guid>
         
         
       </item>
@@ -212,7 +250,7 @@ Beyond the sample test cases, you are required to pass a certain number of hidde
 in order to get the full score. These are unknown inputs, and can really break your algorithm 
 if you don’t have all your ducks in a row.&lt;/p&gt;
 
-&lt;h2 id=&quot;why-codefights&quot;&gt;Why &lt;a href=&quot;https://codefights.com/signup/Tc6ZhHbjaerYfyTBB/main&quot;&gt;CodeFights&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;why-codefightshttpscodefightscomsignuptc6zhhbjaeryfytbbmain&quot;&gt;Why &lt;a href=&quot;https://codefights.com/signup/Tc6ZhHbjaerYfyTBB/main&quot;&gt;CodeFights&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;CodeFights is one of many sites out there that provides challenges. However, I tend
 to enjoy CodeFights more than any other one. This has to do with their community,
@@ -269,8 +307,8 @@ is just one way to do that.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;item&lt;/em&gt;&lt;sup style=&quot;color:blue;&quot;&gt;i&lt;/sup&gt; - Means more information is available as you click on the item.&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Dec 2016 02:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2016/12/07/codefights.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/12/07/codefights.html</guid>
+        <link>https://shadowcodex.github.io/2016/12/07/codefights.html</link>
+        <guid isPermaLink="true">https://shadowcodex.github.io/2016/12/07/codefights.html</guid>
         
         
       </item>
@@ -282,8 +320,8 @@ is just one way to do that.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://blog.pluralsight.com/github-tutorial&quot;&gt;View the Full Github Article Here…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jan 2016 13:30:00 -0600</pubDate>
-        <link>http://localhost:4000/2016/01/12/github-beginners-guide.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/01/12/github-beginners-guide.html</guid>
+        <link>https://shadowcodex.github.io/2016/01/12/github-beginners-guide.html</link>
+        <guid isPermaLink="true">https://shadowcodex.github.io/2016/01/12/github-beginners-guide.html</guid>
         
         
       </item>
