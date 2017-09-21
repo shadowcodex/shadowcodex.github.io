@@ -1,19 +1,18 @@
 <div class="row">
     <div class="col-md-12">
-        <h2>Project Contributions</h2>        
+        <h2>General Development</h2>        
     </div>
 </div>
-{% assign rows = site.data.contributed.size | divided_by: 3.0 | ceil %}
+{% assign rows = site.data.general-development.size | divided_by: 3.0 | ceil %}
 {% for i in (1..rows) %}
 {% assign offset = forloop.index0 | times: 3 %}
 <div class="row">
-{% for proj in site.data.contributed limit:3 offset:offset %}
+{% for proj in site.data.general-development limit:3 offset:offset %}
     <div class="col-md-4">
         <div class="panel panel-default">
             <div class="panel-heading">{{proj.title}}</div>
             <div class="panel-body">
                 <p>{{proj.description}}</p>
-                <p>{{proj.myInvolvement}}</p>
             </div>
             <div class="panel-footer">
                 <a class="github-button" href="https://github.com/{{proj.title}}" data-show-count="true"  data-icon="octicon-star" aria-label="Star {{proj.title}} on GitHub"></a>
@@ -21,7 +20,7 @@
                 <a class="github-button" href="https://github.com/{{proj.title}}/fork" data-show-count="true" data-icon="octicon-repo-forked" aria-label="Fork {{proj.title}} on GitHub"></a>
                 &nbsp;&nbsp;
                 <a class="github-button" href="https://github.com/{{proj.title}}/issues" data-show-count="true" data-icon="octicon-issue-opened" aria-label="Issue {{proj.title}} on GitHub">Issue</a> 
-                <a class="btn btn-xs btn-warning pull-right" href="{{proj.link}}">View<span class="glyphicon glyphicon-chevron-right"></span></a>
+                <a class="btn btn-xs btn-success pull-right" href="https://github.com/{{proj.title}}">View<span class="glyphicon glyphicon-chevron-right"></span></a>
             </div>
         </div>
     </div>

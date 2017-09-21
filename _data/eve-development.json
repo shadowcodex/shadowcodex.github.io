@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Faction Warfare Map",
+        "repo": "shadowcodex/cryrs-site",
+        "link": "https://github.com/shadowcodex/cryrs-site/tree/gh-pages/t/map",
+        "description": "This map shows the current real time state of Faction Warfare in eve online. It includes a lot of handy features, and quick information links."
+    },
+    {
+        "title": "Fleet XUP Parser",
+        "repo": "shadowcodex/eve-fleet-chain",
+        "link": "https://github.com/shadowcodex/eve-fleet-chain",
+        "description": "This tools allows Fleet Commanders to quickly assign logi, sebo's, and ecm throughout their fleet. Using only the fleet chat."
+    },
+    {
+        "title": "EVE Market Browser",
+        "repo": "shadowcodex/cryrs-site",
+        "link": "https://github.com/shadowcodex/cryrs-site/tree/gh-pages/t/market",
+        "description": "This tool allows federation uprising members to view and search local home base market prices similar to evepraisale. It prices the stocks and also allows you to see if items are in stock or not."
+    },
+    {
+        "title": "CFO Calc",
+        "repo": "shadowcodex/cfo-calc",
+        "link": "https://github.com/shadowcodex/cfo-calc",
+        "description": "This tool allows federation uprising members to price their shipping costs using our internal shipping corporation CFO."
+    }
+]

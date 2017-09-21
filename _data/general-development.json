@@ -1,0 +1,50 @@
+[
+    {
+        "title": "shadowcodex/codex-ui",
+        "description": "Vanilla Bootstrap Components. Plug and Play, Copy and Paste."
+    },
+    {
+        "title": "shadowcodex/data-theory",        
+        "description": "Data science and theory implemented in JavaScript."
+    },
+    {
+        "title": "shadowcodex/c9.ide.desktop",        
+        "description": "Adds a desktop GUI to cloud9's ide using x11"
+    },
+    {
+        "title": "shadowcodex/c9.ide.pigments",        
+        "description": "A plugin to mark color codes with pigments."
+    },
+    {
+        "title": "shadowcodex/rethinkdb-collaborative-editor",        
+        "description": "A real time collaborative editor. Built on RethinkDB. Written for a Pluralsight Article."
+    },
+    {
+        "title": "shadowcodex/realtime-chat-RethinkDB",        
+        "description": "A real time chat room built with RethinkDB"
+    },
+    {
+        "title": "shadowcodex/domain-finder",        
+        "description": "Passive Domain Discover Tool using Python and a Whois API"
+    },
+    {
+        "title": "shadowcodex/jekyll-seo-social",        
+        "description": "A way to easily import social media information from YAML Front matter or other site information."
+    },
+    {
+        "title": "shadowcodex/c9.ide.print",        
+        "description": "Adds local printing option to file menu in cloud9 ide"
+    },
+    {
+        "title": "shadowcodex/Code-Bucket",        
+        "description": "This is a really old project...<br><br>A javascript paste bin leveraging the ace editor."
+    },
+    {
+        "title": "shadowcodex/code-snippets",        
+        "description": "Just a few snippets from code challenges I have done. Oh also I coded a teenager, kind of a joke with a friend."
+    },
+    {
+        "title": "shadowcodex/shadowcodex.github.io",
+        "description": "The website you are viewing right now..."
+    }
+]
