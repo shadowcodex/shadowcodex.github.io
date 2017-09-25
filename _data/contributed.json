@@ -6,6 +6,12 @@
         "myInvolvement": "This project I have added a lot of contributions, including the website design."
     },
     {
+        "title": "therebelrobot/awesome-bootstrap",
+        "link": "https://github.com/therebelrobot/awesome-bootstrap",
+        "description": "Awesome - A curated list of amazing Bootstrap tools and themes.",
+        "myInvolvement": "I am the new maintainer of this project, and soon to be main contributor."
+    },
+    {
         "title": "c9/core",
         "link": "https://github.com/c9/core",
         "description": "Cloud9 Core - Part of the Cloud9 SDK for Plugin Development",
