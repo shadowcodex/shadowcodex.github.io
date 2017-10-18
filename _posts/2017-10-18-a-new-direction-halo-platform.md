@@ -3,9 +3,9 @@ layout: post
 title:  "[Life Update] A New Direction With Halo Platform"
 description: "I'm changing jobs, going from finance sector to crypto currency. Halo Platform will be my new home."
 date:   2017-10-18 07:30:00
-ogimg: "https://shadowcodex.github.io/imgs/blogmedia/spaceBox-ItsHere2.jpg"
+ogimg: "https://shadowcodex.github.io/imgs/blogmedia/SpaceBox-ItsHere2.jpg"
 ---
-<img class="img-responsive" src="/imgs/blogmedia/spaceBox-ItsHere2.jpg">
+<img class="img-responsive" src="/imgs/blogmedia/SpaceBox-ItsHere2.jpg">
 
 ### Wait What? You're Leaving AFCU?
 
