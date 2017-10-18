@@ -5,9 +5,67 @@
     <description>A full stack software developer, a father, and a gamer. Not much else here...</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Sep 2017 11:22:07 -0500</pubDate>
-    <lastBuildDate>Mon, 25 Sep 2017 11:22:07 -0500</lastBuildDate>
+    <pubDate>Wed, 18 Oct 2017 16:01:34 -0500</pubDate>
+    <lastBuildDate>Wed, 18 Oct 2017 16:01:34 -0500</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>[Life Update] A New Direction With Halo Platform</title>
+        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/imgs/blogmedia/spaceBox-ItsHere2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;wait-what-youre-leaving-afcu&quot;&gt;Wait What? You’re Leaving AFCU?&lt;/h3&gt;
+
+&lt;p&gt;Yes, after five wonderful years I am moving to a new company to work full time. I have truly valued my time 
+at AFCU (Arkansas Federal Credit Union) and wouldn’t trade it for anything. The friends and colleagues I have met,
+made, and continue to connect with are invaluable. Thanks to AFCU I have become a stronger and better prepared 
+developer to take my next step.&lt;/p&gt;
+
+&lt;p&gt;The decision to leave wasn’t easy, and I didn’t do it lightly. If you are considering a change in careers/jobs/anything 
+make sure you consider everything that it will affect.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;text-primary&quot;&gt;&lt;strong&gt;Change is scary.&lt;/strong&gt;&lt;/span&gt; Some people think I’m crazy to walk away from a very secure job to a job in crypto currencies when it 
+is so new and still very miss understood. I’ll admit that I was hesitant, but the opportunity is one that I just couldn’t
+pass up. I’m going to be helping to create something new that the world has never seen before. That is awesome, and worth it.&lt;/p&gt;
+
+&lt;h3 id=&quot;ok-so-what-is-halo-platform&quot;&gt;Ok So What Is Halo Platform?&lt;/h3&gt;
+
+&lt;p&gt;I’m glad you asked, and actually everyone has been asking me that. It’s true that you most likely have not heard of them before,
+and don’t feel bad. Unless you are involved in crypto currencies you wouldn’t have seen them.&lt;/p&gt;
+
+&lt;p&gt;Halo Platform is a new crypto currency, a new trading platform, a new chat room system, a new multi-wallet, a new almost everything
+that you would need to control and manage your crypto currency sphere of influence. We will be creating some amazing tools to be 
+used by heavy investors, veterans, and new beginners alike. Some of the things we are doing include but are not limited to the following:&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;text-info&quot;&gt;&lt;strong&gt;Decentralized Data:&lt;/strong&gt;&lt;/span&gt; Sending and receiving data in real time through a peer to peer decentralized distributed database system.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;text-info&quot;&gt;&lt;strong&gt;Injecting JS API’s:&lt;/strong&gt;&lt;/span&gt; Taking normal websites and injecting our own custom JavaScript API’s to allow objects in that webpage to interact
+with our ecosystem.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;text-info&quot;&gt;&lt;strong&gt;Next Level Encryption Algorithms:&lt;/strong&gt;&lt;/span&gt; We are building encryption systems that are blazing fast (milliseconds), quantum resistant, and incorporate interchanging and rotating keys.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;text-info&quot;&gt;&lt;strong&gt;Fastest Exchange Of Your Life:&lt;/strong&gt;&lt;/span&gt; In addition to a decentralized exchange we are actively working on creating the worlds first professional grade high speed Crypto Currency Exchange that will actually scale correctly. We are talking lighting fast. It’s gonna be HUGE!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;text-info&quot;&gt;&lt;strong&gt;Tooling:&lt;/strong&gt;&lt;/span&gt; Developers need love too, and we are going to be giving back to the community. Giving them the tools and services that we use
+to build next generation applications with.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;text-info&quot;&gt;&lt;strong&gt;And So Much More:&lt;/strong&gt;&lt;/span&gt; The list goes on, and unfortunately I have to stop writing an article and get back to actual work on the Platform.&lt;/p&gt;
+
+&lt;h3 id=&quot;that-sounds-pretty-cool-right&quot;&gt;That Sounds Pretty Cool Right?&lt;/h3&gt;
+
+&lt;p&gt;It does. It’s really cool. In fact it is so cool it’s sub-artic! We (Halo Platform Team) are getting together in the near future to do a week long hackathon. We are talking code and sleep, code and sleep.&lt;/p&gt;
+
+&lt;p&gt;I’m excited to bring my financial sector background to the Halo Team, and help them build the future of the crypto sphere. Here’s to a fun time!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.haloplatform.tech/&quot; class=&quot;btn btn-lg btn-block btn-primary&quot;&gt;Go Checkout Halo At Their Website!!!!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/imgs/blogmedia/Halo-IS-HERE.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Oct 2017 02:30:00 -0500</pubDate>
+        <link>http://localhost:4000/2017/10/18/a-new-direction-halo-platform.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/18/a-new-direction-halo-platform.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>[Meteor] Meteor Up Site is LIVE!!!</title>
