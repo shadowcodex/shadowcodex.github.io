@@ -7,8 +7,10 @@
     // words - list of words to be always considered correct
     "words": [
         "AFCU",
+        "blogmedia",
         "FICS",
         "Fiserv's",
+        "imgs",
         "Pluralsight",
         "repo",
         "shadowcodex"

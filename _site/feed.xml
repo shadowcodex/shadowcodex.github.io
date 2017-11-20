@@ -5,13 +5,70 @@
     <description>A full stack software developer, a father, and a gamer. Not much else here...</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Oct 2017 16:01:34 -0500</pubDate>
-    <lastBuildDate>Wed, 18 Oct 2017 16:01:34 -0500</lastBuildDate>
-    <generator>Jekyll v3.5.2</generator>
+    <pubDate>Sun, 19 Nov 2017 22:19:47 -0600</pubDate>
+    <lastBuildDate>Sun, 19 Nov 2017 22:19:47 -0600</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>[Articles] Article Curating Thing</title>
+        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/imgs/blogmedia/news.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;i-read-a-lot&quot;&gt;I Read A LOT!&lt;/h3&gt;
+&lt;p&gt;Like really, a lot. While I was reading one day I thought “hmm maybe others would like to read
+these articles too.” These could be tutorials, news, new tools, or anything interesting. So 
+I’m starting by just posting a list every now and then of recent articles I have read
+that I think others should check out.&lt;/p&gt;
+
+&lt;h3 id=&quot;with-that-lets-get-into-it&quot;&gt;With That Let’s Get Into It&lt;/h3&gt;
+
+&lt;h4 id=&quot;1-github-security-alerts&quot;&gt;&lt;a href=&quot;https://github.com/blog/2470-introducing-security-alerts-on-github&quot;&gt;1. Github Security Alerts&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Github recently announced that using their dependency graph feature, developers could
+receive alerts when one of those dependencies have a reported vulnerability. Using some
+machine learning, Github will attempt to tell you how to fix or approach the vulnerability.&lt;/p&gt;
+
+&lt;p&gt;It should be stressed that this does not replace developer due diligence, but should be used
+in conjunction to security protocols and plans.&lt;/p&gt;
+
+&lt;h4 id=&quot;2-every-javascript-framework-tutorial-written-more-than-5-minutes-ago&quot;&gt;&lt;a href=&quot;https://medium.freecodecamp.org/every-javascript-framework-tutorial-written-more-than-5-minutes-ago-f96642d4f05?source=linkShare-628f31ead38-1511142078&amp;amp;gi=c93ce521ee9c&quot;&gt;2. Every Javascript Framework Tutorial Written More Than 5 Minutes Ago&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Roger Collier goes over an experience with javascript tutorials, while making fun of / attacking the culture
+of using a million tools and features to launch a simple application. I found it to be more satire and addressing
+a bigger issue in the javascript community. The over tooling of frameworks.&lt;/p&gt;
+
+&lt;h4 id=&quot;3-the-most-important-rule-in-ux-design-that-everyone-breaks&quot;&gt;&lt;a href=&quot;https://blog.prototypr.io/the-most-important-rule-in-ux-design-that-everyone-breaks-1c1cb188931&quot;&gt;3. The Most Important Rule In UX Design That Everyone Breaks&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;How does your layout work with how much multi-tasking and memory users are able to achieve? This article attempts
+to tackle that question and put forth some solutions to how many elements and groups should be in the active
+page of a UI/UX.&lt;/p&gt;
+
+&lt;h4 id=&quot;4-developing-a-google-chrome-extension-using-angular-4&quot;&gt;&lt;a href=&quot;https://www.red-gate.com/simple-talk/dotnet/software-tools/developing-google-chrome-extension-using-angular-4/&quot;&gt;4. Developing a Google Chrome Extension using Angular 4&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Tackling the tricky task of developing google chrome extensions with angular 4. Turns out not to be that tricky at all.&lt;/p&gt;
+
+&lt;h4 id=&quot;5-learn--understand-javascripts-reduce-function&quot;&gt;&lt;a href=&quot;https://codeburst.io/learn-understand-javascripts-reduce-function-b2b0406efbdc&quot;&gt;5. Learn &amp;amp; Understand JavaScript’s Reduce Function&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;This covers the use of reduce to provide a single value output from an array of values. Example initially covered in the article is 
+an array summation of integer values. This function can be used to simplify both code complexity and readability.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;I’ll start with 5 articles at a time, and see how people like it. I don’t do emails, so to get updates you’ll
+have to come checkout the site from time to time.&lt;/p&gt;
+
+&lt;p&gt;For now Ciao!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 19 Nov 2017 01:30:00 -0600</pubDate>
+        <link>http://localhost:4000/article/2017/11/19/article-curration-thing.html</link>
+        <guid isPermaLink="true">http://localhost:4000/article/2017/11/19/article-curration-thing.html</guid>
+        
+        
+        <category>article</category>
+        
+      </item>
     
       <item>
         <title>[Life Update] A New Direction With Halo Platform</title>
-        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/imgs/blogmedia/spaceBox-ItsHere2.jpg&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/imgs/blogmedia/SpaceBox-ItsHere2.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;wait-what-youre-leaving-afcu&quot;&gt;Wait What? You’re Leaving AFCU?&lt;/h3&gt;
 
